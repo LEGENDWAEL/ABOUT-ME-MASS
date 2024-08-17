@@ -1,3 +1,5 @@
+from keep_alive import keep_alive
+keep_alive()
 import telebot , requests ,  time , uuid , random
 import hashlib , Topython , datetime
 
